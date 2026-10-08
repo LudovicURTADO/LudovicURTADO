@@ -1,0 +1,464 @@
+<div align="center">
+
+<img src="./assets/pipboy-header.svg" alt="Ludovic Urtado - Pip-Boy terminal" width="100%">
+
+</div>
+
+# `> PIP-BOY // USER PROFILE`
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║ ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL                             ║
+║                                                                    ║
+║ USER       : LUDOVIC URTADO                                        ║
+║ OCCUPATION : TECHNICIEN INFORMATIQUE                               ║
+║ TRAINING   : BTS SIO — OPTION SISR                                 ║
+║ STATUS     : ACTIVE                                                ║
+║                                                                    ║
+║ SYSTEMS [███████████████████░]  NETWORK [████████████████░░░]      ║
+║ SUPPORT [██████████████████░]  HARDWARE[██████████████████░]      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+> **SYSTEM MESSAGE:** Bienvenue dans le terminal personnel de Ludovic Urtado.
+
+---
+
+## `STAT` // PROFIL
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ NAME        LUDOVIC URTADO                                  │
+│ AGE         28                                              │
+│ ROLE        TECHNICIEN INFORMATIQUE                         │
+│ STUDIES     BTS SIO — OPTION SISR                           │
+│ SCHOOL      ESPL                                            │
+│ STATUS      ALTERNANCE                                      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+Technicien informatique avec plusieurs années d'expérience dans le support,
+la maintenance et le diagnostic informatique.
+
+Mon objectif est de développer mes compétences en **systèmes, réseaux,
+administration et cybersécurité**.
+
+---
+
+## `SPECIAL` // COMPÉTENCES
+
+```text
+             S   P   E   C   I   A   L
+
+SYSTEMS      [███████████████████░]  Windows / Linux / macOS
+NETWORK      [████████████████░░░░]  IP / VLAN / DNS / DHCP
+SERVER       [███████████████░░░░░]  Windows Server
+SUPPORT      [███████████████████░]  GLPI / RDP / AnyDesk / TeamViewer
+HARDWARE     [██████████████████░░]  Diagnostic / Réparation / Assemblage
+VIRTUAL      [████████████░░░░░░░░]  VMware / VirtualBox
+```
+
+### `SKILLS.EXE`
+
+| Domaine | Compétences |
+|---|---|
+| 🖥️ Systèmes | Windows, Linux, macOS |
+| 🌐 Réseaux | Adressage IP, VLAN, DNS, DHCP |
+| 🗄️ Serveurs | Windows Server |
+| 🎫 Support | GLPI, base de connaissances |
+| 🔧 Hardware | Diagnostic, réparation, montage |
+| 🧪 Virtualisation | VMware, VirtualBox |
+| 🧑‍💻 Support distant | AnyDesk, TeamViewer, RDP |
+
+---
+
+## `DATA` // EXPÉRIENCE
+
+### `01 // ID NUMÉRIQUE — AVRILLÉ`
+**Technicien de maintenance informatique — 2023 → aujourd'hui**
+
+```text
+[MISSION STATUS: COMPLETE]
+
+> Dépannage et installation à distance de QuickPoster
+> Diagnostic Windows / postes clients / impression réseau / drivers
+> Formation des clients
+> Gestion de la base de connaissances
+> Suivi des incidents via GLPI
+> Administration des comptes utilisateurs et droits d'accès
+> Installation de postes et traceurs chez les clients
+> Création et gestion d'un serveur de catalogue Windows Server
+> Assemblage et configuration de postes
+```
+
+### `02 // ALTURING`
+**Technicien support informatique — 2021 → 2023**
+
+```text
+> Support technique sur les logiciels d'affranchissement en ligne
+> Colissimo Professionnel
+> Chronopost
+```
+
+### `03 // ACER / SENS TECHNOLOGIE`
+**Technicien réparateur — avant 2021**
+
+```text
+> Diagnostic de pannes sur PC portables
+> Maintenance et nettoyage
+> Intervention sur Acer et MacBook
+> Conditionnement de matériel informatique
+```
+
+### `04 // HELPLINE`
+**Technicien support Helpdesk — 2019 → 2021**
+
+```text
+> Support technique
+> PagesJaunes
+> Solocal
+> REXEL
+```
+
+---
+
+## `DATA` // FORMATION
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  CURRENT                                                    ║
+║  BTS SIO — OPTION SISR                                      ║
+║  ESPL                                                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  2018                                                       ║
+║  Certification technicien d'assistance — ESAIP             ║
+║  Niveau IV                                                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  2017                                                       ║
+║  Bac Pro Systèmes Électroniques Numériques                  ║
+║  Option Télécoms & Réseaux — Lycée Chevrollier, Angers      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `QUEST` // PROJETS BTS SIO
+
+```text
+[01] ACTIVE DIRECTORY       █████████████░░░  IN PROGRESS
+[02] RÉSEAUX / SUBNETTING   ███████████░░░░░  IN PROGRESS
+[03] SERVEUR GLPI           █████████░░░░░░░  IN PROGRESS
+[04] LINUX                  ███████████░░░░░  IN PROGRESS
+[05] WINDOWS SERVER         ████████████░░░░  IN PROGRESS
+[06] VIRTUALISATION         █████████░░░░░░░  IN PROGRESS
+```
+
+> Cette section sera enrichie avec mes TP, schémas réseau, configurations,
+> scripts et autres réalisations au fur et à mesure de mon BTS SIO SISR.
+
+---
+
+## `LOG` // OBJECTIFS
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ PRIMARY OBJECTIVE                                           ║
+║                                                              ║
+║ Développer une expertise en systèmes et réseaux.             ║
+║                                                              ║
+║ NEXT OBJECTIVES                                              ║
+║ ├─ Administration systèmes                                  ║
+║ ├─ Infrastructure réseau                                    ║
+║ ├─ Windows Server / Linux                                   ║
+║ ├─ Virtualisation                                           ║
+║ └─ Cybersécurité                                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `INV` // CENTRES D'INTÉRÊT
+
+```text
+[01] 🎭 THÉÂTRE EN TROUPE
+[02] 🎨 DESSIN — MANGA & STYLE BD
+[03] 🎮 JEUX VIDÉO
+     ├── Simulation
+     ├── Gestion
+     ├── RPG
+     └── Aventure
+```
+
+---
+
+## `COM` // CONTACT
+
+```text
+> EMAIL
+  urtadoludovic@gmail.com
+
+> GITHUB
+  https://github.com/TON-PSEUDO
+
+> PERMIS
+  OUI
+```
+
+---
+
+## `TERMINAL` // SYSTEM READY
+
+```text
+> Loading user profile.................... OK
+> Loading experience...................... OK
+> Loading technical skills................ OK
+> Loading education....................... OK
+> Loading projects........................ OK
+
+████████████████████████████████████████████ 100%
+
+ROBCO INDUSTRIES TERMINAL
+STATUS: ONLINE
+
+> ACCESS GRANTED_
+```
+
+<div align="center">
+
+`SYSTEMS • NETWORKS • SUPPORT • HARDWARE • CYBERSECURITY`
+<div align="center">
+
+<img src="./assets/pipboy-header.svg" alt="Ludovic Urtado - Pip-Boy terminal" width="100%">
+
+</div>
+
+# `> PIP-BOY // USER PROFILE`
+
+```text
+╔══════════════════════════════════════════════════════════════════════╗
+║ ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL                             ║
+║                                                                    ║
+║ USER       : LUDOVIC URTADO                                        ║
+║ OCCUPATION : TECHNICIEN INFORMATIQUE                               ║
+║ TRAINING   : BTS SIO — OPTION SISR                                 ║
+║ STATUS     : ACTIVE                                                ║
+║                                                                    ║
+║ SYSTEMS [███████████████████░]  NETWORK [████████████████░░░]      ║
+║ SUPPORT [██████████████████░]  HARDWARE[██████████████████░]      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+> **SYSTEM MESSAGE:** Bienvenue dans le terminal personnel de Ludovic Urtado.
+
+---
+
+## `STAT` // PROFIL
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│ NAME        LUDOVIC URTADO                                  │
+│ AGE         28                                              │
+│ ROLE        TECHNICIEN INFORMATIQUE                         │
+│ STUDIES     BTS SIO — OPTION SISR                           │
+│ SCHOOL      ESPL                                            │
+│ STATUS      ALTERNANCE                                      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+Technicien informatique avec plusieurs années d'expérience dans le support,
+la maintenance et le diagnostic informatique.
+
+Mon objectif est de développer mes compétences en **systèmes, réseaux,
+administration et cybersécurité**.
+
+---
+
+## `SPECIAL` // COMPÉTENCES
+
+```text
+             S   P   E   C   I   A   L
+
+SYSTEMS      [███████████████████░]  Windows / Linux / macOS
+NETWORK      [████████████████░░░░]  IP / VLAN / DNS / DHCP
+SERVER       [███████████████░░░░░]  Windows Server
+SUPPORT      [███████████████████░]  GLPI / RDP / AnyDesk / TeamViewer
+HARDWARE     [██████████████████░░]  Diagnostic / Réparation / Assemblage
+VIRTUAL      [████████████░░░░░░░░]  VMware / VirtualBox
+```
+
+### `SKILLS.EXE`
+
+| Domaine | Compétences |
+|---|---|
+| 🖥️ Systèmes | Windows, Linux, macOS |
+| 🌐 Réseaux | Adressage IP, VLAN, DNS, DHCP |
+| 🗄️ Serveurs | Windows Server |
+| 🎫 Support | GLPI, base de connaissances |
+| 🔧 Hardware | Diagnostic, réparation, montage |
+| 🧪 Virtualisation | VMware, VirtualBox |
+| 🧑‍💻 Support distant | AnyDesk, TeamViewer, RDP |
+
+---
+
+## `DATA` // EXPÉRIENCE
+
+### `01 // ID NUMÉRIQUE — AVRILLÉ`
+**Technicien de maintenance informatique — 2023 → aujourd'hui**
+
+```text
+[MISSION STATUS: COMPLETE]
+
+> Dépannage et installation à distance de QuickPoster
+> Diagnostic Windows / postes clients / impression réseau / drivers
+> Formation des clients
+> Gestion de la base de connaissances
+> Suivi des incidents via GLPI
+> Administration des comptes utilisateurs et droits d'accès
+> Installation de postes et traceurs chez les clients
+> Création et gestion d'un serveur de catalogue Windows Server
+> Assemblage et configuration de postes
+```
+
+### `02 // ALTURING`
+**Technicien support informatique — 2021 → 2023**
+
+```text
+> Support technique sur les logiciels d'affranchissement en ligne
+> Colissimo Professionnel
+> Chronopost
+```
+
+### `03 // ACER / SENS TECHNOLOGIE`
+**Technicien réparateur — avant 2021**
+
+```text
+> Diagnostic de pannes sur PC portables
+> Maintenance et nettoyage
+> Intervention sur Acer et MacBook
+> Conditionnement de matériel informatique
+```
+
+### `04 // HELPLINE`
+**Technicien support Helpdesk — 2019 → 2021**
+
+```text
+> Support technique
+> PagesJaunes
+> Solocal
+> REXEL
+```
+
+---
+
+## `DATA` // FORMATION
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║  CURRENT                                                    ║
+║  BTS SIO — OPTION SISR                                      ║
+║  ESPL                                                        ║
+╠══════════════════════════════════════════════════════════════╣
+║  2018                                                       ║
+║  Certification technicien d'assistance — ESAIP             ║
+║  Niveau IV                                                  ║
+╠══════════════════════════════════════════════════════════════╣
+║  2017                                                       ║
+║  Bac Pro Systèmes Électroniques Numériques                  ║
+║  Option Télécoms & Réseaux — Lycée Chevrollier, Angers      ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `QUEST` // PROJETS BTS SIO
+
+```text
+[01] ACTIVE DIRECTORY       █████████████░░░  IN PROGRESS
+[02] RÉSEAUX / SUBNETTING   ███████████░░░░░  IN PROGRESS
+[03] SERVEUR GLPI           █████████░░░░░░░  IN PROGRESS
+[04] LINUX                  ███████████░░░░░  IN PROGRESS
+[05] WINDOWS SERVER         ████████████░░░░  IN PROGRESS
+[06] VIRTUALISATION         █████████░░░░░░░  IN PROGRESS
+```
+
+> Cette section sera enrichie avec mes TP, schémas réseau, configurations,
+> scripts et autres réalisations au fur et à mesure de mon BTS SIO SISR.
+
+---
+
+## `LOG` // OBJECTIFS
+
+```text
+╔══════════════════════════════════════════════════════════════╗
+║ PRIMARY OBJECTIVE                                           ║
+║                                                              ║
+║ Développer une expertise en systèmes et réseaux.             ║
+║                                                              ║
+║ NEXT OBJECTIVES                                              ║
+║ ├─ Administration systèmes                                  ║
+║ ├─ Infrastructure réseau                                    ║
+║ ├─ Windows Server / Linux                                   ║
+║ ├─ Virtualisation                                           ║
+║ └─ Cybersécurité                                             ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## `INV` // CENTRES D'INTÉRÊT
+
+```text
+[01] 🎭 THÉÂTRE EN TROUPE
+[02] 🎨 DESSIN — MANGA & STYLE BD
+[03] 🎮 JEUX VIDÉO
+     ├── Simulation
+     ├── Gestion
+     ├── RPG
+     └── Aventure
+```
+
+---
+
+## `COM` // CONTACT
+
+```text
+> EMAIL
+  urtadoludovic@gmail.com
+
+> GITHUB
+  https://github.com/TON-PSEUDO
+
+> PERMIS
+  OUI
+```
+
+---
+
+## `TERMINAL` // SYSTEM READY
+
+```text
+> Loading user profile.................... OK
+> Loading experience...................... OK
+> Loading technical skills................ OK
+> Loading education....................... OK
+> Loading projects........................ OK
+
+████████████████████████████████████████████ 100%
+
+ROBCO INDUSTRIES TERMINAL
+STATUS: ONLINE
+
+> ACCESS GRANTED_
+```
+
+<div align="center">
+
+`SYSTEMS • NETWORKS • SUPPORT • HARDWARE • CYBERSECURITY`
+
+</div>
+
+<sub>Interface originale inspirée de l'esthétique rétro-futuriste des terminaux de jeux vidéo.</sub>
+
+</div>
+
+<sub>Interface originale inspirée de l'esthétique rétro-futuriste des terminaux de jeux vidéo.</sub>
