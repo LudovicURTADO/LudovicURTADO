@@ -7,25 +7,10 @@
 # `> PIP-BOY // USER PROFILE`
 
 ```text
-╔══════════════════════════════════════════════════════════════════════╗
-║ ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL                             ║
-║                                                                    ║
-║ USER       : LUDOVIC URTADO                                        ║
-║ OCCUPATION : TECHNICIEN INFORMATIQUE                               ║
-║ TRAINING   : BTS SIO — OPTION SISR                                 ║
-║ STATUS     : ACTIVE                                                ║
-║                                                                    ║
-║ SYSTEMS [███████████████████░]  NETWORK [████████████████░░░]      ║
-║ SUPPORT [██████████████████░]  HARDWARE[██████████████████░]      ║
-╚══════════════════════════════════════════════════════════════════════╝
 ```
-
 > **SYSTEM MESSAGE:** Bienvenue dans le terminal personnel de Ludovic Urtado.
-
 ---
-
 ## `STAT` // PROFIL
-
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │ NAME        LUDOVIC URTADO                                  │
@@ -50,8 +35,8 @@ administration et cybersécurité**.
 ```text
              S   P   E   C   I   A   L
 
-SYSTEMS      [███████████████████░]  Windows / Linux / macOS
-NETWORK      [████████████████░░░░]  IP / VLAN / DNS / DHCP
+SYSTEMS      [████████████████░]  Windows / Linux / macOS
+NETWORK      [████████████████░░░]  IP / VLAN / DNS / DHCP
 SERVER       [███████████████░░░░░]  Windows Server
 SUPPORT      [███████████████████░]  GLPI / RDP / AnyDesk / TeamViewer
 HARDWARE     [██████████████████░░]  Diagnostic / Réparation / Assemblage
