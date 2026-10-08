@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<rect width="1200" height="360" fill="#07120a"/>
+<rect x="22" y="22" width="1156" height="316" rx="12" fill="#0b1b0d" stroke="#39ff72" stroke-width="3"/>
+<rect x="42" y="42" width="1116" height="276" rx="6" fill="none" stroke="#39ff72" stroke-width="1" opacity=".55"/>
+<g fill="#39ff72" font-family="monospace">
+<text x="62" y="78" font-size="22">ROBCO INDUSTRIES (TM) TERMLINK PROTOCOL</text>
+<text x="62" y="108" font-size="15">PIP-BOY PERSONNEL DATABASE // USER PROFILE</text>
+<text x="62" y="164" font-size="48" font-weight="bold">LUDOVIC URTADO</text>
+<text x="64" y="195" font-size="20">TECHNICIEN INFORMATIQUE  //  BTS SIO SISR</text>
+<text x="64" y="235" font-size="17">SYSTEMS   NETWORK   SUPPORT   HARDWARE   CYBERSECURITY</text>
+<text x="64" y="280" font-size="15">STATUS: ACTIVE      XP: ███████████████░░░  82%</text>
+<text x="900" y="80" font-size="16">[STAT]</text>
+<text x="900" y="110" font-size="16">[SKILLS]</text>
+<text x="900" y="140" font-size="16">[DATA]</text>
+<text x="900" y="170" font-size="16">[LOG]</text>
+<text x="900" y="230" font-size="13">TERMINAL READY</text>
+<text x="900" y="252" font-size="13">v. 3000 Mk IV</text>
+</g>
+<g stroke="#39ff72" opacity=".16">
+<path d="M42 125H1158M42 300H1158"/>
+<path d="M850 42V318"/>
+</g>
+</svg>
